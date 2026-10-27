@@ -3,3 +3,6 @@ This is the MAIN branch version
 
 This is the FEATURE branch version
 
+
+Merged Conflict last practice.
+
